@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1685622034596,1977,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1371,131,11,11,https://jetcap-api.cyclic.app/users/28,1974,0,686
+1685622034701,1878,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1369,131,10,10,https://jetcap-api.cyclic.app/users/62,1878,0,585
+1685622035495,1193,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1403,131,9,9,https://jetcap-api.cyclic.app/users/86,1193,0,955
+1685622035092,1831,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1382,131,10,10,https://jetcap-api.cyclic.app/users/44,1831,0,1658
+1685622035294,1676,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1380,131,9,9,https://jetcap-api.cyclic.app/users/99,1676,0,353
+1685622036292,776,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,true,,1370,131,8,8,https://jetcap-api.cyclic.app/users/50,776,0,295
+1685622034893,2272,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1406,131,8,8,https://jetcap-api.cyclic.app/users/10,2272,0,1312
+1685622035711,1469,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,1378,130,7,7,https://jetcap-api.cyclic.app/users/9,1469,0,998
+1685622036097,1178,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,true,,1378,131,6,6,https://jetcap-api.cyclic.app/users/29,1177,0,1022
+1685622036491,1414,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-11,text,true,,1390,131,9,9,https://jetcap-api.cyclic.app/users/74,1414,0,586
+1685622038090,623,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-11,text,true,,1381,131,12,12,https://jetcap-api.cyclic.app/users/17,623,0,473
+1685622037490,1432,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,true,,1370,131,12,12,https://jetcap-api.cyclic.app/users/70,1432,0,974
+1685622037090,2042,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1379,131,12,12,https://jetcap-api.cyclic.app/users/58,2042,0,1900
+1685622037905,1386,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1377,131,12,12,https://jetcap-api.cyclic.app/users/73,1386,0,1246
+1685622035899,3613,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-8,text,true,,1379,131,12,12,https://jetcap-api.cyclic.app/users/67,3613,0,3470
+1685622037690,1906,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,1403,131,11,11,https://jetcap-api.cyclic.app/users/86,1906,0,1759
+1685622039290,418,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1378,131,11,11,https://jetcap-api.cyclic.app/users/29,418,0,289
+1685622039090,686,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,true,,1387,131,10,10,https://jetcap-api.cyclic.app/users/60,686,0,535
+1685622038290,1612,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1374,131,9,9,https://jetcap-api.cyclic.app/users/71,1612,0,1456
+1685622036906,3003,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1376,131,9,9,https://jetcap-api.cyclic.app/users/23,3003,0,2862
+1685622038890,1027,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-11,text,true,,1374,131,8,8,https://jetcap-api.cyclic.app/users/97,1027,0,874
+1685622039490,948,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1382,131,9,9,https://jetcap-api.cyclic.app/users/75,948,0,820
+1685622038706,1967,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-12,text,true,,1378,131,9,9,https://jetcap-api.cyclic.app/users/29,1967,0,1844
+1685622040091,619,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-11,text,true,,1406,131,9,9,https://jetcap-api.cyclic.app/users/10,619,0,467
+1685622040290,445,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,true,,1379,131,8,8,https://jetcap-api.cyclic.app/users/14,445,0,309
+1685622040491,439,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1375,131,8,8,https://jetcap-api.cyclic.app/users/15,439,0,312
+1685622039691,1431,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,1380,131,8,8,https://jetcap-api.cyclic.app/users/52,1431,0,1302
+1685622036692,4430,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1370,131,8,8,https://jetcap-api.cyclic.app/users/70,4430,0,4296
+1685622040691,468,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-12,text,true,,1378,131,6,6,https://jetcap-api.cyclic.app/users/11,468,0,332
+1685622041090,612,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,true,,1374,131,7,7,https://jetcap-api.cyclic.app/users/65,612,0,453
+1685622040890,967,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-11,text,true,,1386,131,7,7,https://jetcap-api.cyclic.app/users/39,967,0,835
+1685622038490,3399,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1373,131,6,6,https://jetcap-api.cyclic.app/users/85,3399,0,3271
+1685622042090,713,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,1369,131,10,10,https://jetcap-api.cyclic.app/users/62,713,0,294
+1685622037305,5515,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,true,,1367,131,9,9,https://jetcap-api.cyclic.app/users/41,5515,0,5364
+1685622039904,2936,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1391,131,8,8,https://jetcap-api.cyclic.app/users/45,2936,0,2801
+1685622041490,1438,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1387,131,8,8,https://jetcap-api.cyclic.app/users/18,1438,0,1315
+1685622042491,461,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1377,131,7,7,https://jetcap-api.cyclic.app/users/73,460,0,314
+1685622041290,1718,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-12,text,true,,1374,130,6,6,https://jetcap-api.cyclic.app/users/4,1718,0,1562
+1685622042891,432,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,true,,1382,131,7,7,https://jetcap-api.cyclic.app/users/75,432,0,305
+1685622041705,1689,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,true,,1378,131,6,6,https://jetcap-api.cyclic.app/users/84,1689,0,1539
+1685622041905,1622,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-11,text,true,,1377,131,6,6,https://jetcap-api.cyclic.app/users/73,1622,0,1488
+1685622043500,776,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,true,,1390,131,8,8,https://jetcap-api.cyclic.app/users/47,776,0,639
+1685622043706,705,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-11,text,true,,1378,131,8,8,https://jetcap-api.cyclic.app/users/29,705,0,584
+1685622043290,1405,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1370,131,8,8,https://jetcap-api.cyclic.app/users/50,1404,0,1285
+1685622043090,1624,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-12,text,true,,1368,131,8,8,https://jetcap-api.cyclic.app/users/24,1624,0,1501
+1685622043892,839,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1373,131,7,7,https://jetcap-api.cyclic.app/users/40,839,0,703
+1685622044490,761,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-11,text,true,,1390,131,8,8,https://jetcap-api.cyclic.app/users/19,761,0,613
+1685622044091,1179,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,true,,1378,130,7,7,https://jetcap-api.cyclic.app/users/1,1179,0,1038
+1685622042295,3017,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1378,131,7,7,https://jetcap-api.cyclic.app/users/29,3017,0,2877
+1685622044890,633,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-12,text,true,,1399,131,7,7,https://jetcap-api.cyclic.app/users/22,633,0,505
+1685622045090,434,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1383,131,6,6,https://jetcap-api.cyclic.app/users/82,434,0,305
+1685622045690,465,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-12,text,true,,1385,131,8,8,https://jetcap-api.cyclic.app/users/66,465,0,315
+1685622044696,1477,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1379,131,7,7,https://jetcap-api.cyclic.app/users/26,1477,0,1329
+1685622045890,419,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1371,131,7,7,https://jetcap-api.cyclic.app/users/38,419,0,286
+1685622046090,623,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,1371,131,8,8,https://jetcap-api.cyclic.app/users/38,623,0,480
+1685622045493,1556,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,true,,1370,131,8,8,https://jetcap-api.cyclic.app/users/90,1556,0,1420
+1685622044290,3225,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,true,,1377,130,10,10,https://jetcap-api.cyclic.app/users/9,3225,0,3064
+1685622047091,727,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,true,,1378,131,10,10,https://jetcap-api.cyclic.app/users/14,727,0,578
+1685622046290,1982,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-12,text,true,,1393,131,11,11,https://jetcap-api.cyclic.app/users/30,1982,0,1865
+1685622047492,897,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1378,131,11,11,https://jetcap-api.cyclic.app/users/14,897,0,781
+1685622046493,1968,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1388,131,10,10,https://jetcap-api.cyclic.app/users/46,1968,0,1525
+1685622046894,1711,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,1390,131,10,10,https://jetcap-api.cyclic.app/users/45,1711,0,1570
+1685622047689,1076,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,true,,1374,131,10,10,https://jetcap-api.cyclic.app/users/15,1076,0,941
+1685622047294,1658,HTTP Request,429,Too Many Requests,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,false,,1238,130,10,10,https://jetcap-api.cyclic.app/users/6,1658,0,1535
+1685622047895,1110,HTTP Request,429,Too Many Requests,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,false,,1238,131,9,9,https://jetcap-api.cyclic.app/users/66,1110,0,996
+1685622048290,1137,HTTP Request,429,Too Many Requests,bzm - Arrivals Thread Group-ThreadStarter 1-12,text,false,,1238,131,10,10,https://jetcap-api.cyclic.app/users/49,1137,0,1005
+1685622048891,1381,HTTP Request,429,Too Many Requests,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,false,,1238,131,13,13,https://jetcap-api.cyclic.app/users/46,1381,0,1259
+1685622050299,936,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,true,,1377,130,17,17,https://jetcap-api.cyclic.app/users/3,936,0,782
+1685622049890,1476,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1419,131,17,17,https://jetcap-api.cyclic.app/users/69,1476,0,1346
+1685622049496,1978,HTTP Request,429,Too Many Requests,bzm - Arrivals Thread Group-ThreadStarter 1-12,text,false,,1238,131,16,16,https://jetcap-api.cyclic.app/users/24,1977,0,1864
+1685622051093,848,HTTP Request,429,Too Many Requests,bzm - Arrivals Thread Group-ThreadStarter 1-17,text,false,,1238,131,18,18,https://jetcap-api.cyclic.app/users/26,848,0,721
+1685622048496,3533,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1370,131,17,17,https://jetcap-api.cyclic.app/users/56,3533,0,1683
+1685622050494,1569,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-14,text,true,,1374,130,16,16,https://jetcap-api.cyclic.app/users/4,1569,0,816
+1685622051292,818,HTTP Request,429,Too Many Requests,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,false,,1238,131,16,16,https://jetcap-api.cyclic.app/users/42,818,0,706
+1685622049090,3170,HTTP Request,429,Too Many Requests,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,false,,1238,131,15,15,https://jetcap-api.cyclic.app/users/79,3170,0,2625
+1685622049290,3013,HTTP Request,429,Too Many Requests,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,false,,1238,131,15,15,https://jetcap-api.cyclic.app/users/59,3013,0,2880
+1685622048090,4244,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-8,text,true,,1373,131,14,14,https://jetcap-api.cyclic.app/users/40,4243,0,4100
+1685622050693,1656,HTTP Request,429,Too Many Requests,bzm - Arrivals Thread Group-ThreadStarter 1-15,text,false,,1238,130,13,13,https://jetcap-api.cyclic.app/users/1,1656,0,1537
+1685622048691,3812,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,1370,131,13,13,https://jetcap-api.cyclic.app/users/50,3812,0,3571
+1685622051491,1392,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-12,text,true,,1378,131,13,13,https://jetcap-api.cyclic.app/users/11,1392,0,953
+1685622046691,6444,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1378,131,14,14,https://jetcap-api.cyclic.app/users/84,6444,0,5954
+1685622051691,1528,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1385,131,13,13,https://jetcap-api.cyclic.app/users/39,1528,0,1344
+1685622045292,8115,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-11,text,true,,1391,131,13,13,https://jetcap-api.cyclic.app/users/37,8115,0,7990
+1685622053305,563,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1373,131,14,14,https://jetcap-api.cyclic.app/users/59,563,0,428
+1685622052491,1479,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,true,,1395,131,14,14,https://jetcap-api.cyclic.app/users/87,1479,0,1341
+1685622050093,3946,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-13,text,true,,1369,131,13,13,https://jetcap-api.cyclic.app/users/50,3946,0,3802
+1685622052691,1405,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-17,text,true,,1364,131,13,13,https://jetcap-api.cyclic.app/users/43,1405,0,1279
+1685622052090,2180,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1381,131,12,12,https://jetcap-api.cyclic.app/users/75,2180,0,2050
+1685622052303,2178,HTTP Request,429,Too Many Requests,bzm - Arrivals Thread Group-ThreadStarter 1-9,text,false,,1238,131,12,12,https://jetcap-api.cyclic.app/users/12,2178,0,1636
+1685622053490,1390,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-11,text,true,,1378,131,11,11,https://jetcap-api.cyclic.app/users/67,1390,0,850
+1685622054290,619,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1376,131,10,10,https://jetcap-api.cyclic.app/users/78,619,0,500
+1685622054094,897,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-10,text,true,,1379,131,9,9,https://jetcap-api.cyclic.app/users/16,896,0,764
+1685622053891,2066,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1381,131,8,8,https://jetcap-api.cyclic.app/users/96,2066,0,1944
+1685622052890,4754,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-12,text,true,,1368,131,7,7,https://jetcap-api.cyclic.app/users/62,4754,0,4607
+1685622051894,8006,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-18,text,true,,1376,131,6,6,https://jetcap-api.cyclic.app/users/73,8006,0,7753
+1685622042706,20766,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1369,131,5,5,https://jetcap-api.cyclic.app/users/56,20766,0,20605
+1685622053104,12113,HTTP Request,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-7,text,true,,1381,131,4,4,https://jetcap-api.cyclic.app/users/44,12113,0,11485
+1685622049690,19490,HTTP Request,429,Too Many Requests,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,false,,1238,131,3,3,https://jetcap-api.cyclic.app/users/99,19490,0,19373
+1685622050897,19653,HTTP Request,429,Too Many Requests,bzm - Arrivals Thread Group-ThreadStarter 1-16,text,false,,1238,131,2,2,https://jetcap-api.cyclic.app/users/87,19653,0,19545
+1685622053705,20217,HTTP Request,429,Too Many Requests,bzm - Arrivals Thread Group-ThreadStarter 1-14,text,false,,1238,131,1,1,https://jetcap-api.cyclic.app/users/90,20217,0,19987

@@ -1,0 +1,139 @@
+{
+	"info": {
+		"_postman_id": "af0c6494-0bc3-4eb4-a1c8-a45287ee86aa",
+		"name": "Jetcap",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25910887"
+	},
+	"item": [
+		{
+			"name": "Get all user",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://jetcap-api.cyclic.app/users",
+					"protocol": "https",
+					"host": [
+						"jetcap-api",
+						"cyclic",
+						"app"
+					],
+					"path": [
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get user",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://jetcap-api.cyclic.app/users/1",
+					"protocol": "https",
+					"host": [
+						"jetcap-api",
+						"cyclic",
+						"app"
+					],
+					"path": [
+						"users",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get image user",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://jetcap-api.cyclic.app/users/1/images",
+					"protocol": "https",
+					"host": [
+						"jetcap-api",
+						"cyclic",
+						"app"
+					],
+					"path": [
+						"users",
+						"1",
+						"images"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get todos user",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://jetcap-api.cyclic.app/users/1/todos",
+					"protocol": "https",
+					"host": [
+						"jetcap-api",
+						"cyclic",
+						"app"
+					],
+					"path": [
+						"users",
+						"1",
+						"todos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get user songs",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://jetcap-api.cyclic.app/users/1/songs",
+					"protocol": "https",
+					"host": [
+						"jetcap-api",
+						"cyclic",
+						"app"
+					],
+					"path": [
+						"users",
+						"1",
+						"songs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get user songs Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://jetcap-api.cyclic.app/users/1/colors",
+					"protocol": "https",
+					"host": [
+						"jetcap-api",
+						"cyclic",
+						"app"
+					],
+					"path": [
+						"users",
+						"1",
+						"colors"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
